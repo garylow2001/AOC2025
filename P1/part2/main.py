@@ -1,5 +1,4 @@
 # Example run: # python3 main.py < test.in > test.out
-# Not enough stars to start this puzzle
 
 
 def main():
