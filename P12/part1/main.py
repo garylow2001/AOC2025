@@ -1,6 +1,4 @@
 # Example run: # python3 main.py < test.in > test.out
-from collections import deque
-import z3
 
 
 def main():
